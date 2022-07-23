@@ -16,6 +16,7 @@
             <div class="container my-auto">
                 <div class="copyright text-center my-auto">
                     <span>Copyright &copy; Your Website 2020</span>
+                    <div class="small text-black" style="font-size: 12px;">Copyright &copy;2021 KIP-PNL. Developed by <a href="www.ukmpolicy.org">UKM-POLICY</a>.</div>
                 </div>
             </div>
         </footer>

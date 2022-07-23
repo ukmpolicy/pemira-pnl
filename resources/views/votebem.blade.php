@@ -96,9 +96,9 @@
 
             @endforeach
         </div>
-    </div>
+    </div>    
     <div class="py-4 bg-light text-center">
-        <div class="small text-black" style="font-size: 12px;">Copyright &copy;2021, Komisi Indepen Pemilihan Politeknik Negeri Lhokseumawe.</div>
+        <div class="small text-black" style="font-size: 12px;">Copyright &copy;2021 KIP-PNL. Developed by <a href="www.ukmpolicy.org">UKM-POLICY</a>.</div>
     </div>
 </body>
 </html>
